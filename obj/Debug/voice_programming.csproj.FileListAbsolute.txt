@@ -7,3 +7,6 @@ E:\Work\hackathon\voice_programming\voice_programming\voice_programming\obj\Debu
 E:\Work\hackathon\voice_programming\voice_programming\voice_programming\obj\Debug\voice_programming.csproj.GenerateResource.Cache
 E:\Work\hackathon\voice_programming\voice_programming\voice_programming\obj\Debug\voice_programming.exe
 E:\Work\hackathon\voice_programming\voice_programming\voice_programming\obj\Debug\voice_programming.pdb
+\\psf\Home\Documents\GitHub\voice_programming\bin\Debug\voice_programming.exe.config
+\\psf\Home\Documents\GitHub\voice_programming\obj\Debug\voice_programming.exe
+\\psf\Home\Documents\GitHub\voice_programming\obj\Debug\voice_programming.pdb
