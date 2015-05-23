@@ -1,0 +1,9 @@
+E:\Work\hackathon\voice_programming\voice_programming\bin\Debug\voice_programming.exe.config
+E:\Work\hackathon\voice_programming\voice_programming\voice_programming\bin\Debug\voice_programming.exe.config
+E:\Work\hackathon\voice_programming\voice_programming\voice_programming\bin\Debug\voice_programming.exe
+E:\Work\hackathon\voice_programming\voice_programming\voice_programming\bin\Debug\voice_programming.pdb
+E:\Work\hackathon\voice_programming\voice_programming\voice_programming\obj\Debug\voice_programming.csprojResolveAssemblyReference.cache
+E:\Work\hackathon\voice_programming\voice_programming\voice_programming\obj\Debug\voice_programming.Properties.Resources.resources
+E:\Work\hackathon\voice_programming\voice_programming\voice_programming\obj\Debug\voice_programming.csproj.GenerateResource.Cache
+E:\Work\hackathon\voice_programming\voice_programming\voice_programming\obj\Debug\voice_programming.exe
+E:\Work\hackathon\voice_programming\voice_programming\voice_programming\obj\Debug\voice_programming.pdb
